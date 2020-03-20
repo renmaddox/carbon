@@ -17061,14 +17061,6 @@ File uploader styles
     }
   }
 
-  .#{$prefix}--file__selected-file--field {
-    min-height: rem(40px);
-  }
-
-  .#{$prefix}--file__selected-file--sm {
-    min-height: rem(32px);
-  }
-
   // TODO: deprecate this block
   .#{$prefix}--file__selected-file--invalid__wrapper {
     @include focus-outline('invalid');
