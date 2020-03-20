@@ -97,7 +97,7 @@ function ExampleDropContainerApp(props) {
       const newFiles = addedFiles.map(file => ({
         uuid: uid(),
         name: file.name,
-        filesize: file.size,
+        size: file.size,
         status: 'uploading',
         iconDescription: 'Uploading',
       }));
@@ -122,21 +122,12 @@ function ExampleDropContainerApp(props) {
       <FileUploaderDropContainer {...props} onAddFiles={onAddFiles} />
       <div className="uploaded-files" style={{ width: '100%' }}>
         {files.map(
-          ({
-            uuid,
-            name,
-            filesize,
-            status,
-            iconDescription,
-            invalid,
-            ...rest
-          }) => (
+          ({ uuid, name, size, status, iconDescription, invalid, ...rest }) => (
             <FileUploaderItem
               key={uid()}
               uuid={uuid}
               name={name}
-              filesize={filesize}
-              size="default"
+              size={size}
               status={status}
               iconDescription={iconDescription}
               invalid={invalid}
