@@ -10,7 +10,6 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { settings } from 'carbon-components';
 import setupGetInstanceId from '../../tools/setupGetInstanceId';
-import deprecate from '../../prop-types/deprecate';
 
 const { prefix } = settings;
 
@@ -29,10 +28,7 @@ export class StructuredListWrapper extends Component {
     /**
      * Specify whether a border should be added to your StructuredListWrapper
      */
-    border: deprecate(
-      PropTypes.bool,
-      `\nThe prop \`border\` will be removed in the next major version of Carbon.`
-    ),
+    border: PropTypes.bool,
 
     /**
      * Specify whether your StructuredListWrapper should have selections
@@ -46,6 +42,7 @@ export class StructuredListWrapper extends Component {
   };
 
   static defaultProps = {
+    border: false,
     selection: false,
     ariaLabel: 'Structured list section',
   };
@@ -55,12 +52,13 @@ export class StructuredListWrapper extends Component {
       children,
       selection,
       className,
+      border,
       ariaLabel,
-      border: _border,
       ...other
     } = this.props;
 
     const classes = classNames(`${prefix}--structured-list`, className, {
+      [`${prefix}--structured-list--border`]: border,
       [`${prefix}--structured-list--selection`]: selection,
     });
 
