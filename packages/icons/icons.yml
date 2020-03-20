@@ -1667,7 +1667,7 @@
     - account
     - my account
 - name: user--x-ray
-  friendly_name: User x-ray
+  friendly_name: User x ray
   sizes:
     - 32
   aliases:
@@ -1868,7 +1868,7 @@
     - 20
     - 32
 - name: 4K
-  friendly_name: 4K
+  friendly_name: 4 k
   aliases:
     - four k
     - resolution
@@ -1878,7 +1878,7 @@
   sizes:
     - 32
 - name: 4K--filled
-  friendly_name: 4K filled
+  friendly_name: 4 k filled
   sizes:
     - 32
   aliases:
@@ -1888,7 +1888,7 @@
     - HD
     - high definition
 - name: API--1
-  friendly_name: API 1
+  friendly_name: Api 1
   sizes:
     - 32
   aliases:
@@ -1900,7 +1900,7 @@
     - file
     - file type
 - name: CAD
-  friendly_name: CAD
+  friendly_name: Cad
   aliases:
     - computer aided design
     - canada
@@ -1914,13 +1914,13 @@
   sizes:
     - 32
 - name: CDA
-  friendly_name: CDA
+  friendly_name: Cda
   aliases:
     - CDA
   sizes:
     - 32
 - name: CSV
-  friendly_name: CSV
+  friendly_name: Csv
   aliases:
     - file
     - file type
@@ -1932,13 +1932,13 @@
   sizes:
     - 32
 - name: DOC
-  friendly_name: DOC
+  friendly_name: Doc
   aliases:
     - DOC
   sizes:
     - 32
 - name: DVR
-  friendly_name: DVR
+  friendly_name: Dvr
   aliases:
     - record
     - digital
@@ -1949,7 +1949,7 @@
   sizes:
     - 32
 - name: GIF
-  friendly_name: GIF
+  friendly_name: Gif
   aliases:
     - file
     - file type
@@ -1957,7 +1957,7 @@
   sizes:
     - 32
 - name: HD
-  friendly_name: HD
+  friendly_name: Hd
   aliases:
     - high
     - def
@@ -1967,7 +1967,7 @@
   sizes:
     - 32
 - name: HD--filled
-  friendly_name: HD filled
+  friendly_name: Hd filled
   sizes:
     - 32
   aliases:
@@ -1977,7 +1977,7 @@
     - high quality
     - 4K
 - name: HDR
-  friendly_name: HDR
+  friendly_name: Hdr
   aliases:
     - high
     - dynamic
@@ -1987,7 +1987,7 @@
   sizes:
     - 32
 - name: HTTP
-  friendly_name: HTTP
+  friendly_name: Http
   aliases:
     - internet
     - web
@@ -1999,7 +1999,7 @@
   sizes:
     - 32
 - name: ISO
-  friendly_name: ISO
+  friendly_name: Iso
   aliases:
     - photo
     - sensitivity
@@ -2008,7 +2008,7 @@
   sizes:
     - 32
 - name: ISO--filled
-  friendly_name: ISO filled
+  friendly_name: Iso filled
   sizes:
     - 32
   aliases:
@@ -2017,7 +2017,7 @@
     - light
     - camera
 - name: ISO--outline
-  friendly_name: ISO outline
+  friendly_name: Iso outline
   sizes:
     - 32
   aliases:
@@ -2026,7 +2026,7 @@
     - light
     - camera
 - name: JPG
-  friendly_name: JPG
+  friendly_name: Jpg
   aliases:
     - file
     - type
@@ -2039,7 +2039,7 @@
   sizes:
     - 32
 - name: JSON
-  friendly_name: JSON
+  friendly_name: Json
   aliases:
     - javascript
     - object
@@ -2051,7 +2051,7 @@
   sizes:
     - 32
 - name: MOV
-  friendly_name: MOV
+  friendly_name: Mov
   aliases:
     - movie
     - video
@@ -2062,7 +2062,7 @@
   sizes:
     - 32
 - name: MP3
-  friendly_name: MP3
+  friendly_name: Mp3
   aliases:
     - music
     - audio
@@ -2073,7 +2073,7 @@
   sizes:
     - 32
 - name: MP4
-  friendly_name: MP4
+  friendly_name: Mp4
   aliases:
     - movie
     - video
@@ -2084,19 +2084,19 @@
   sizes:
     - 32
 - name: MPEG
-  friendly_name: MPEG
+  friendly_name: Mpeg
   aliases:
     - MPEG
   sizes:
     - 32
 - name: MPG2
-  friendly_name: MPG2
+  friendly_name: Mpg2
   aliases:
     - MPG2
   sizes:
     - 32
 - name: PDF
-  friendly_name: PDF
+  friendly_name: Pdf
   aliases:
     - document
     - doc
@@ -2107,7 +2107,7 @@
   sizes:
     - 32
 - name: PNG
-  friendly_name: PNG
+  friendly_name: Png
   aliases:
     - file
     - type
@@ -2120,7 +2120,7 @@
   sizes:
     - 32
 - name: PPT
-  friendly_name: PPT
+  friendly_name: Ppt
   aliases:
     - PPT
   sizes:
@@ -2225,7 +2225,7 @@
   sizes:
     - 32
 - name: cU1
-  friendly_name: cU1
+  friendly_name: C u1
   aliases:
     - Q
     - c
@@ -2234,7 +2234,7 @@
   sizes:
     - 32
 - name: cU3
-  friendly_name: cU3
+  friendly_name: C u3
   aliases:
     - q
     - c
@@ -2243,7 +2243,7 @@
   sizes:
     - 32
 - name: cY
-  friendly_name: cY
+  friendly_name: C y
   aliases:
     - Q
     - c
@@ -2251,7 +2251,7 @@
   sizes:
     - 32
 - name: cZ
-  friendly_name: cZ
+  friendly_name: C z
   aliases:
     - Q
     - c
@@ -2259,7 +2259,7 @@
   sizes:
     - 32
 - name: ccX
-  friendly_name: ccX
+  friendly_name: Cc x
   aliases:
     - Q
     - cc
@@ -2296,7 +2296,7 @@
   sizes:
     - 32
 - name: iD
-  friendly_name: iD
+  friendly_name: I d
   aliases:
     - identification
     - identity
@@ -2339,27 +2339,27 @@
     - indicator
     - bracket
 - name: RAW
-  friendly_name: RAW
+  friendly_name: Raw
   aliases:
     - format
     - unedited
   sizes:
     - 32
 - name: SDK
-  friendly_name: SDK
+  friendly_name: Sdk
   aliases:
     - SDK
   sizes:
     - 32
 - name: SQL
-  friendly_name: SQL
+  friendly_name: Sql
   aliases:
     - database
     - query
   sizes:
     - 32
 - name: SVG
-  friendly_name: SVG
+  friendly_name: Svg
   aliases:
     - format
     - image
@@ -2367,14 +2367,14 @@
   sizes:
     - 32
 - name: TIF
-  friendly_name: TIF
+  friendly_name: Tif
   aliases:
     - format
     - image
   sizes:
     - 32
 - name: TSV
-  friendly_name: TSV
+  friendly_name: Tsv
   aliases:
     - format
     - data
@@ -2383,7 +2383,7 @@
   sizes:
     - 32
 - name: TXT
-  friendly_name: TXT
+  friendly_name: Txt
   aliases:
     - text
     - format
@@ -2391,7 +2391,7 @@
   sizes:
     - 32
 - name: USB
-  friendly_name: USB
+  friendly_name: Usb
   aliases:
     - connector
     - protocol
@@ -2401,7 +2401,7 @@
   sizes:
     - 32
 - name: VPN
-  friendly_name: VPN
+  friendly_name: Vpn
   aliases:
     - protocol
     - virtual
@@ -2412,7 +2412,7 @@
   sizes:
     - 32
 - name: WMV
-  friendly_name: WMV
+  friendly_name: Wmv
   aliases:
     - format
     - music
@@ -2421,7 +2421,7 @@
   sizes:
     - 32
 - name: XLS
-  friendly_name: XLS
+  friendly_name: Xls
   aliases:
     - excel
     - format
@@ -2429,7 +2429,7 @@
   sizes:
     - 32
 - name: XML
-  friendly_name: XML
+  friendly_name: Xml
   aliases:
     - format
     - markup
@@ -2438,7 +2438,7 @@
   sizes:
     - 32
 - name: ZIP
-  friendly_name: ZIP
+  friendly_name: Zip
   aliases:
     - compress
     - format
@@ -2583,7 +2583,7 @@
   sizes:
     - 32
 - name: api
-  friendly_name: API
+  friendly_name: Api
   aliases:
     - program
     - tool
@@ -3132,7 +3132,7 @@
     - bar
     - data
 - name: chart--venn-diagram
-  friendly_name: Chart Venn diagram
+  friendly_name: Chart venn diagram
   sizes:
     - 32
   aliases:
@@ -3181,14 +3181,14 @@
     - check
     - box
 - name: checkbox--undeterminate--filled
-  friendly_name: Checkbox indeterminate filled
+  friendly_name: Checkbox undeterminate filled
   sizes:
     - 32
   aliases:
     - check
     - box
 - name: checkbox--undeterminate
-  friendly_name: Checkbox indeterminate
+  friendly_name: Checkbox undeterminate
   sizes:
     - 32
   aliases:
@@ -3321,7 +3321,7 @@
   sizes:
     - 32
 - name: cloud-foundry--1
-  friendly_name: Cloud Foundry 1
+  friendly_name: Cloud foundry 1
   sizes:
     - 32
   aliases:
@@ -3330,7 +3330,7 @@
     - cloud
     - foundry
 - name: cloud-foundry--2
-  friendly_name: Cloud Foundry 2
+  friendly_name: Cloud foundry 2
   sizes:
     - 32
   aliases:
@@ -3678,7 +3678,7 @@
   sizes:
     - 32
 - name: data-vis--1
-  friendly_name: Data visualization 1
+  friendly_name: Data vis 1
   sizes:
     - 32
   aliases:
@@ -3691,7 +3691,7 @@
     - stats
     - web
 - name: data-vis--2
-  friendly_name: Data visualization 2
+  friendly_name: Data vis 2
   sizes:
     - 32
   aliases:
@@ -3704,7 +3704,7 @@
     - stats
     - web
 - name: data-vis--3
-  friendly_name: Data visualization 3
+  friendly_name: Data vis 3
   sizes:
     - 32
   aliases:
@@ -3717,7 +3717,7 @@
     - stats
     - web
 - name: data-vis--4
-  friendly_name: Data visualization 4
+  friendly_name: Data vis 4
   sizes:
     - 32
   aliases:
@@ -3917,25 +3917,25 @@
   sizes:
     - 32
 - name: earth--americas--filled
-  friendly_name: Earth Americas filled
+  friendly_name: Earth americas filled
   sizes:
     - 32
   aliases:
     - earth
 - name: earth--americas
-  friendly_name: Earth Americas
+  friendly_name: Earth americas
   sizes:
     - 32
   aliases:
     - earth
 - name: earth--europe-africa--filled
-  friendly_name: Earth Europe Africa filled
+  friendly_name: Earth europe africa filled
   sizes:
     - 32
   aliases:
     - earth
 - name: earth--europe-africa
-  friendly_name: Earth Europe Africa
+  friendly_name: Earth europe africa
   sizes:
     - 32
   aliases:
@@ -3947,19 +3947,19 @@
   aliases:
     - earth
 - name: earth--southeast-asia--filled
-  friendly_name: Earth Southeast Asia filled
+  friendly_name: Earth southeast asia filled
   sizes:
     - 32
   aliases:
     - earth
 - name: earth--southeast-asia
-  friendly_name: Earth Southeast Asia
+  friendly_name: Earth southeast asia
   sizes:
     - 32
   aliases:
     - earth
 - name: edt-loop
-  friendly_name: EDT loop
+  friendly_name: Edt loop
   aliases:
     - version
     - iteration
@@ -4001,7 +4001,7 @@
   sizes:
     - 32
 - name: erase--3D
-  friendly_name: Erase 3D
+  friendly_name: Erase 3 d
   sizes:
     - 32
   aliases:
@@ -4692,7 +4692,7 @@
   sizes:
     - 32
 - name: ibm-cloud
-  friendly_name: IBM Cloud™
+  friendly_name: Ibm cloud
   aliases:
     - product
     - cloud
@@ -4705,7 +4705,7 @@
   sizes:
     - 32
 - name: ibm-security
-  friendly_name: IBM Security
+  friendly_name: Ibm security
   aliases:
     - safe
     - cyber security
@@ -4835,7 +4835,7 @@
   sizes:
     - 32
 - name: iot--connect
-  friendly_name: IoT connect
+  friendly_name: Iot connect
   sizes:
     - 32
   aliases:
@@ -4853,7 +4853,7 @@
     - connect
     - platform
 - name: iot--platform
-  friendly_name: IoT platform
+  friendly_name: Iot platform
   sizes:
     - 32
   aliases:
@@ -4907,7 +4907,7 @@
   sizes:
     - 32
 - name: letter--Aa
-  friendly_name: Letter Aa
+  friendly_name: Letter aa
   sizes:
     - 32
   aliases:
@@ -4915,7 +4915,7 @@
     - language
     - english
 - name: letter--Bb
-  friendly_name: Letter Bb
+  friendly_name: Letter bb
   sizes:
     - 32
   aliases:
@@ -4923,7 +4923,7 @@
     - language
     - english
 - name: letter--Cc
-  friendly_name: Letter Cc
+  friendly_name: Letter cc
   sizes:
     - 32
   aliases:
@@ -4931,7 +4931,7 @@
     - language
     - english
 - name: letter--Dd
-  friendly_name: Letter Dd
+  friendly_name: Letter dd
   sizes:
     - 32
   aliases:
@@ -4939,7 +4939,7 @@
     - language
     - english
 - name: letter--Ee
-  friendly_name: Letter Ee
+  friendly_name: Letter ee
   sizes:
     - 32
   aliases:
@@ -4947,7 +4947,7 @@
     - language
     - english
 - name: letter--Ff
-  friendly_name: Letter Ff
+  friendly_name: Letter ff
   sizes:
     - 32
   aliases:
@@ -4955,7 +4955,7 @@
     - language
     - english
 - name: letter--Gg
-  friendly_name: Letter Gg
+  friendly_name: Letter gg
   sizes:
     - 32
   aliases:
@@ -4963,7 +4963,7 @@
     - language
     - english
 - name: letter--Hh
-  friendly_name: Letter Hh
+  friendly_name: Letter hh
   sizes:
     - 32
   aliases:
@@ -4971,7 +4971,7 @@
     - language
     - english
 - name: letter--Ii
-  friendly_name: Letter Ii
+  friendly_name: Letter ii
   sizes:
     - 32
   aliases:
@@ -4979,7 +4979,7 @@
     - language
     - english
 - name: letter--Jj
-  friendly_name: Letter Jj
+  friendly_name: Letter jj
   sizes:
     - 32
   aliases:
@@ -4987,7 +4987,7 @@
     - language
     - english
 - name: letter--Kk
-  friendly_name: Letter Kk
+  friendly_name: Letter kk
   sizes:
     - 32
   aliases:
@@ -4995,7 +4995,7 @@
     - language
     - english
 - name: letter--Ll
-  friendly_name: Letter Ll
+  friendly_name: Letter ll
   sizes:
     - 32
   aliases:
@@ -5003,7 +5003,7 @@
     - language
     - english
 - name: letter--Mm
-  friendly_name: Letter Mm
+  friendly_name: Letter mm
   sizes:
     - 32
   aliases:
@@ -5011,7 +5011,7 @@
     - language
     - english
 - name: letter--Nn
-  friendly_name: Letter Nn
+  friendly_name: Letter nn
   sizes:
     - 32
   aliases:
@@ -5019,7 +5019,7 @@
     - language
     - english
 - name: letter--Oo
-  friendly_name: Letter Oo
+  friendly_name: Letter oo
   sizes:
     - 32
   aliases:
@@ -5027,7 +5027,7 @@
     - language
     - english
 - name: letter--Pp
-  friendly_name: Letter Pp
+  friendly_name: Letter pp
   sizes:
     - 32
   aliases:
@@ -5035,7 +5035,7 @@
     - language
     - english
 - name: letter--Qq
-  friendly_name: Letter Qq
+  friendly_name: Letter qq
   sizes:
     - 32
   aliases:
@@ -5043,7 +5043,7 @@
     - language
     - english
 - name: letter--Rr
-  friendly_name: Letter Rr
+  friendly_name: Letter rr
   sizes:
     - 32
   aliases:
@@ -5051,7 +5051,7 @@
     - language
     - english
 - name: letter--Ss
-  friendly_name: Letter Ss
+  friendly_name: Letter ss
   sizes:
     - 32
   aliases:
@@ -5059,7 +5059,7 @@
     - language
     - english
 - name: letter--Tt
-  friendly_name: Letter Tt
+  friendly_name: Letter tt
   sizes:
     - 32
   aliases:
@@ -5067,7 +5067,7 @@
     - language
     - english
 - name: letter--Uu
-  friendly_name: Letter Uu
+  friendly_name: Letter uu
   sizes:
     - 32
   aliases:
@@ -5075,7 +5075,7 @@
     - language
     - english
 - name: letter--Vv
-  friendly_name: Letter Vv
+  friendly_name: Letter vv
   sizes:
     - 32
   aliases:
@@ -5083,7 +5083,7 @@
     - language
     - english
 - name: letter--Ww
-  friendly_name: Letter Ww
+  friendly_name: Letter ww
   sizes:
     - 32
   aliases:
@@ -5091,7 +5091,7 @@
     - language
     - english
 - name: letter--Xx
-  friendly_name: Letter Xx
+  friendly_name: Letter xx
   sizes:
     - 32
   aliases:
@@ -5099,7 +5099,7 @@
     - language
     - english
 - name: letter--Yy
-  friendly_name: Letter Yy
+  friendly_name: Letter yy
   sizes:
     - 32
   aliases:
@@ -5107,7 +5107,7 @@
     - language
     - english
 - name: letter--Zz
-  friendly_name: Letter Zz
+  friendly_name: Letter zz
   sizes:
     - 32
   aliases:
@@ -5157,7 +5157,7 @@
   sizes:
     - 32
 - name: logo--digg
-  friendly_name: Logo Digg
+  friendly_name: Logo digg
   sizes:
     - 32
   aliases:
@@ -5170,7 +5170,7 @@
     - tag
     - identification
 - name: logo--facebook
-  friendly_name: Logo Facebook
+  friendly_name: Logo facebook
   sizes:
     - 32
   aliases:
@@ -5183,7 +5183,7 @@
     - tag
     - identification
 - name: logo--flickr
-  friendly_name: Logo Flickr
+  friendly_name: Logo flickr
   sizes:
     - 32
   aliases:
@@ -5196,7 +5196,7 @@
     - tag
     - identification
 - name: logo--github
-  friendly_name: Logo GitHub
+  friendly_name: Logo github
   sizes:
     - 32
   aliases:
@@ -5209,7 +5209,7 @@
     - tag
     - identification
 - name: logo--glassdoor
-  friendly_name: Logo Glassdoor
+  friendly_name: Logo glassdoor
   sizes:
     - 32
   aliases:
@@ -5222,7 +5222,7 @@
     - tag
     - identification
 - name: logo--instagram
-  friendly_name: Logo Instagram
+  friendly_name: Logo instagram
   sizes:
     - 32
   aliases:
@@ -5235,7 +5235,7 @@
     - tag
     - identification
 - name: logo--linkedin
-  friendly_name: Logo LinkedIn
+  friendly_name: Logo linkedin
   sizes:
     - 32
   aliases:
@@ -5248,7 +5248,7 @@
     - tag
     - identification
 - name: logo--livestream
-  friendly_name: Logo Livestream
+  friendly_name: Logo livestream
   sizes:
     - 32
   aliases:
@@ -5274,7 +5274,7 @@
     - tag
     - identification
 - name: logo--openshift
-  friendly_name: Logo OpenShift®
+  friendly_name: Logo openshift
   sizes:
     - 32
   aliases:
@@ -5287,7 +5287,7 @@
     - tag
     - identification
 - name: logo--pinterest
-  friendly_name: Logo Pinterest
+  friendly_name: Logo pinterest
   sizes:
     - 32
   aliases:
@@ -5300,7 +5300,7 @@
     - tag
     - identification
 - name: logo--quora
-  friendly_name: Logo Quora
+  friendly_name: Logo quora
   sizes:
     - 32
   aliases:
@@ -5313,7 +5313,7 @@
     - tag
     - identification
 - name: logo--skype
-  friendly_name: Logo Skype
+  friendly_name: Logo skype
   sizes:
     - 32
   aliases:
@@ -5326,7 +5326,7 @@
     - tag
     - identification
 - name: logo--slack
-  friendly_name: Logo Slack
+  friendly_name: Logo slack
   sizes:
     - 32
   aliases:
@@ -5339,7 +5339,7 @@
     - tag
     - identification
 - name: logo--snapchat
-  friendly_name: Logo Snapchat
+  friendly_name: Logo snapchat
   sizes:
     - 32
   aliases:
@@ -5352,7 +5352,7 @@
     - tag
     - identification
 - name: logo--tumblr
-  friendly_name: Logo Tumblr
+  friendly_name: Logo tumblr
   sizes:
     - 32
   aliases:
@@ -5365,7 +5365,7 @@
     - tag
     - identification
 - name: logo--twitter
-  friendly_name: Logo Twitter
+  friendly_name: Logo twitter
   sizes:
     - 32
   aliases:
@@ -5378,7 +5378,7 @@
     - tag
     - identification
 - name: logo--vmware
-  friendly_name: Logo VMware
+  friendly_name: Logo vmware
   sizes:
     - 32
   aliases:
@@ -5391,7 +5391,7 @@
     - tag
     - identification
 - name: logo--xing
-  friendly_name: Logo XING
+  friendly_name: Logo xing
   sizes:
     - 32
   aliases:
@@ -5404,7 +5404,7 @@
     - tag
     - identification
 - name: logo--yelp
-  friendly_name: Logo Yelp
+  friendly_name: Logo yelp
   sizes:
     - 32
   aliases:
@@ -5417,7 +5417,7 @@
     - tag
     - identification
 - name: logo--youtube
-  friendly_name: Logo YouTube
+  friendly_name: Logo youtube
   sizes:
     - 32
   aliases:
@@ -6503,7 +6503,7 @@
   sizes:
     - 32
 - name: popup
-  friendly_name: Pop-up
+  friendly_name: Popup
   aliases:
     - modal
     - overlay
@@ -6553,7 +6553,7 @@
   sizes:
     - 32
 - name: qr-code
-  friendly_name: QR code
+  friendly_name: Qr code
   aliases:
     - qr-code
   sizes:
@@ -6981,7 +6981,7 @@
   sizes:
     - 32
 - name: rss
-  friendly_name: RSS
+  friendly_name: Rss
   aliases:
     - web feed
     - feed
@@ -8345,7 +8345,7 @@
   sizes:
     - 32
 - name: vmdk-disk
-  friendly_name: VMDK disk
+  friendly_name: Vmdk disk
   aliases:
     - vmdk-disk
   sizes:
@@ -8427,13 +8427,13 @@
   sizes:
     - 32
 - name: watson
-  friendly_name: Watson™
+  friendly_name: Watson
   aliases:
     - ai
   sizes:
     - 32
 - name: watson--machine-learning
-  friendly_name: IBM Watson® Machine Learning
+  friendly_name: Watson machine learning
   sizes:
     - 32
   aliases:
@@ -8445,19 +8445,19 @@
   sizes:
     - 32
 - name: 3D-MPR-Toggle
-  friendly_name: 3D MPR toggle
+  friendly_name: 3D mpr toggle
   aliases:
     - watson
   sizes:
     - 32
 - name: 3D-cursor--alt
-  friendly_name: 3D cursor alt
+  friendly_name: 3 d cursor alt
   sizes:
     - 32
   aliases:
     - 3D-cursor
 - name: 3D-curve--auto-colon
-  friendly_name: 3D curve auto colon
+  friendly_name: 3 d curve auto colon
   sizes:
     - 32
   aliases:
@@ -8465,7 +8465,7 @@
     - curve
     - spline
 - name: 3D-curve--auto-vessels
-  friendly_name: 3D curve auto vessels
+  friendly_name: 3 d curve auto vessels
   sizes:
     - 32
   aliases:
@@ -8473,7 +8473,7 @@
     - curve
     - spline
 - name: 3D-curve--manual
-  friendly_name: 3D curve manual
+  friendly_name: 3 d curve manual
   sizes:
     - 32
   aliases:
@@ -8481,7 +8481,7 @@
     - curve
     - spline
 - name: 3D-iCa
-  friendly_name: 3D iCA
+  friendly_name: 3D iCa
   aliases:
     - iCA
     - dimension
@@ -8496,7 +8496,7 @@
   sizes:
     - 32
 - name: 3rd-party-connected
-  friendly_name: Third-party connect
+  friendly_name: 3rd party connected
   aliases:
     - watson
     - dots
@@ -8533,7 +8533,7 @@
   sizes:
     - 32
 - name: cd--archive
-  friendly_name: CD archive
+  friendly_name: Cd archive
   sizes:
     - 32
   aliases:
@@ -8542,7 +8542,7 @@
     - spot
     - bull's eye
 - name: cd--create-archive
-  friendly_name: CD create archive
+  friendly_name: Cd create archive
   sizes:
     - 32
   aliases:
@@ -8551,7 +8551,7 @@
     - spot
     - bull's eye
 - name: cd--create-exchange
-  friendly_name: CD create exchange
+  friendly_name: Cd create exchange
   sizes:
     - 32
   aliases:
@@ -8593,7 +8593,7 @@
   sizes:
     - 32
 - name: dicom--6000
-  friendly_name: DICOM 6000
+  friendly_name: Dicom 6000
   sizes:
     - 32
   aliases:
@@ -8601,7 +8601,7 @@
     - imaging
     - communication
 - name: dicom--overlay
-  friendly_name: DICOM overlay
+  friendly_name: Dicom overlay
   sizes:
     - 32
   aliases:
@@ -8609,7 +8609,7 @@
     - imaging
     - communication
 - name: dna
-  friendly_name: DNA
+  friendly_name: Dna
   aliases:
     - dna
   sizes:
@@ -8645,7 +8645,7 @@
   sizes:
     - 32
 - name: iCA-2D
-  friendly_name: iCA 2D
+  friendly_name: I ca 2 d
   aliases:
     - iCA-2D
   sizes:
@@ -8716,7 +8716,7 @@
   sizes:
     - 32
 - name: pet-image--B
-  friendly_name: PET image B
+  friendly_name: Pet image b
   sizes:
     - 32
   aliases:
@@ -8724,7 +8724,7 @@
     - brightness
     - contrast
 - name: pet-image--O
-  friendly_name: PET image O
+  friendly_name: Pet image o
   sizes:
     - 32
   aliases:
@@ -8893,13 +8893,13 @@
   sizes:
     - 32
 - name: wifi
-  friendly_name: WiFi
+  friendly_name: Wifi
   aliases:
     - wifi
   sizes:
     - 32
 - name: wifi--off
-  friendly_name: WiFi off
+  friendly_name: Wifi off
   sizes:
     - 32
   aliases:
@@ -9008,7 +9008,7 @@
   sizes:
     - 32
 - name: covariate
-  friendly_name: Covariate
+  friendly_name: covariate
   aliases: []
   sizes:
     - 32
@@ -9073,7 +9073,7 @@
   sizes:
     - 32
 - name: hashtag
-  friendly_name: Hashtag
+  friendly_name: hashtag
   aliases: []
   sizes:
     - 32
@@ -9118,7 +9118,7 @@
   sizes:
     - 32
 - name: script
-  friendly_name: Script
+  friendly_name: script
   aliases: []
   sizes:
     - 32
