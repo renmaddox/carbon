@@ -68,11 +68,6 @@ export function generate() {
             const [_type, _category, _subcategory, name, size] = parts;
             return name === icon && size === '32';
           });
-
-          if (!symbol) {
-            throw new Error(`Unable to find symbol for icon ${icon}!`);
-          }
-
           const instance = symbol.createNewInstance();
           instance.frame.offset(ICON_X_OFFSET, ICON_Y_OFFSET);
 
