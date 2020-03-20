@@ -11930,7 +11930,6 @@ $expressive-heading-05: (
   breakpoints: (
     md: (
       font-size: carbon--type-scale(9),
-      font-weight: carbon--font-weight('light'),
       line-height: 122%,
     ),
     lg: (
@@ -11943,7 +11942,6 @@ $expressive-heading-05: (
     ),
     max: (
       font-size: carbon--type-scale(13),
-      line-height: carbon--rem(70px),
     ),
   ),
 );
@@ -11980,7 +11978,6 @@ $expressive-heading-06: (
     ),
     max: (
       font-size: carbon--type-scale(13),
-      line-height: carbon--rem(70px),
     ),
   ),
 );
