@@ -23,7 +23,7 @@ const DropdownSkeleton = ({ inline, className, ...rest }) => {
 
   return (
     <div className={wrapperClasses} {...rest}>
-      <div className={`${prefix}--list-box__field`}>
+      <div role="button" className={`${prefix}--list-box__field`}>
         <span className={`${prefix}--list-box__label`} />
       </div>
     </div>
