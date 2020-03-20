@@ -80,9 +80,6 @@ const TableToolbarSearch = ({
   const handleExpand = (event, value = !expanded) => {
     if (!controlled && (!persistent || (!persistent && !persistant))) {
       setExpandedState(value);
-      if (value) {
-        setFocusTarget(searchRef);
-      }
     }
     if (onExpand) {
       onExpand(event, value);
@@ -90,6 +87,7 @@ const TableToolbarSearch = ({
   };
 
   const onClick = e => {
+    setFocusTarget(searchRef);
     handleExpand(e, true);
   };
 
