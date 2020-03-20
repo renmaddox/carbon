@@ -59,9 +59,10 @@
   $hover-bg-color,
   $icon-color,
   $active-color,
+  $border-width: $button-border-width
 ) {
   background-color: $bg-color;
-  border-width: $button-outline-width;
+  border-width: $border-width;
   border-style: solid;
   border-color: $border-color;
   color: $font-color;
@@ -72,9 +73,7 @@
 
   &:focus {
     border-color: $focus;
-    box-shadow:
-    inset 0 0 0 $button-border-width $focus,
-    inset 0 0 0 ($button-border-width + $button-outline-width) $ui-02;
+    box-shadow: inset 0 0 0 $button-outline-width $ui-02;
   }
 
   &:disabled:hover,
