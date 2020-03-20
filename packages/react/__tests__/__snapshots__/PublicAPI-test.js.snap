@@ -2495,6 +2495,7 @@ Map {
     "defaultProps": Object {
       "onDelete": [Function],
       "status": "uploading",
+      "uuid": "id1",
     },
     "propTypes": Object {
       "errorBody": Object {
@@ -2526,6 +2527,7 @@ Map {
         "type": "oneOf",
       },
       "uuid": Object {
+        "isRequired": true,
         "type": "string",
       },
     },

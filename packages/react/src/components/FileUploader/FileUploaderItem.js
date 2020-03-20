@@ -5,17 +5,17 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import { settings } from 'carbon-components';
-import cx from 'classnames';
+import React from 'react';
 import PropTypes from 'prop-types';
-import React, { useRef } from 'react';
-import { Filename } from './';
+import { settings } from 'carbon-components';
+import classNames from 'classnames';
+import { Filename } from './FileUploader';
 import { keys, matches } from '../../internal/keyboard';
 import uid from '../../tools/uniqueId';
 
 const { prefix } = settings;
 
-function FileUploaderItem({
+export default function FileUploaderItem({
   uuid,
   name,
   status,
@@ -27,8 +27,7 @@ function FileUploaderItem({
   size,
   ...other
 }) {
-  const { current: id } = useRef(uuid || uid());
-  const classes = cx(`${prefix}--file__selected-file`, {
+  const classes = classNames(`${prefix}--file__selected-file`, {
     [`${prefix}--file__selected-file--invalid`]: invalid,
     [`${prefix}--file__selected-file--field`]: size === 'field',
     [`${prefix}--file__selected-file--sm`]: size === 'small',
@@ -44,13 +43,13 @@ function FileUploaderItem({
           onKeyDown={evt => {
             if (matches(evt, [keys.Enter, keys.Space])) {
               if (status === 'edit') {
-                onDelete(evt, { uuid: id });
+                onDelete(evt, { uuid });
               }
             }
           }}
           onClick={evt => {
             if (status === 'edit') {
-              onDelete(evt, { uuid: id });
+              onDelete(evt, { uuid });
             }
           }}
         />
@@ -75,7 +74,7 @@ FileUploaderItem.propTypes = {
   /**
    * Unique identifier for the file object
    */
-  uuid: PropTypes.string,
+  uuid: PropTypes.string.isRequired,
 
   /**
    * Name of the uploaded file
@@ -115,8 +114,7 @@ FileUploaderItem.propTypes = {
 };
 
 FileUploaderItem.defaultProps = {
+  uuid: uid(),
   status: 'uploading',
   onDelete: () => {},
 };
-
-export default FileUploaderItem;
